@@ -11,6 +11,13 @@
   <li> Npm package- yargs </li>
   <li> Handling data from JSON file </li>
 </ol>
-<h2> Installation </h2>
+
+## Installation and Setup
+Install dependencies
+```Bash
+truffle init
+npm install
+git init
+```
 
 
