@@ -8,7 +8,7 @@
 <h2> Concepts Covered </h2>
 <ol>
   <li> Node Core Module- File System(fs) </li>
-  <li> npm package- yargs </li>
+  <li> Npm package- yargs </li>
   <li> Handling data from JSON file system </li>
 </ol>
 
