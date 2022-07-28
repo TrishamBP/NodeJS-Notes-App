@@ -17,13 +17,12 @@ Install NodeJS and check the version
 ```Bash
 node -v
 ```
-Download npm package yargs and chalk
+Download npm package yargs
 ```Bash
 npm install yargs
-npm install chalk
 ```
 Run the app
 ```Bash
 node app.js <command> --title="" --body=""
-<command>=add, remove, list
+<command>=add, remove, list, read
 ```
