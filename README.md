@@ -24,4 +24,5 @@ npm install yargs
 Run the app
 ```Bash
 node app.js <command> <title>="" <body>=""
+<command>=add, remove, list
 ```
