@@ -8,7 +8,7 @@
 <h2> Concepts Covered </h2>
 <ol>
   <li> Node Core Module- File System(fs) </li>
-  <li> Npm package- yargs </li>
+  <li> Npm package- yargs and chalk </li>
   <li> Handling data from JSON file </li>
 </ol>
 
@@ -17,9 +17,10 @@ Install NodeJS and check the version
 ```Bash
 node -v
 ```
-Download npm package yargs
+Download npm package yargs and chalk
 ```Bash
 npm install yargs
+npm install chalk
 ```
 Run the app
 ```Bash
