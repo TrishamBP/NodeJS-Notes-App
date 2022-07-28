@@ -17,6 +17,10 @@ Install NodeJS and check the version
 ```Bash
 node -v
 ```
+Install Node modules for dependencies
+```Bash
+node install
+```
 Download npm package yargs
 ```Bash
 npm install yargs
