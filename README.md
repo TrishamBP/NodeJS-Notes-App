@@ -12,5 +12,8 @@
   <li> Handling data from JSON file </li>
 </ol>
 <h2> Installation </h2>
-
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
 
