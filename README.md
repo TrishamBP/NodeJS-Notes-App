@@ -9,6 +9,7 @@
 <ol>
   <li> Node Core Module- File System(fs) </li>
   <li> Npm package- yargs </li>
-  <li> Handling data from JSON file system </li>
+  <li> Handling data from JSON file </li>
 </ol>
+
 
