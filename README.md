@@ -8,4 +8,4 @@
 <h2> Installation </h2>
 <p> Download the latest versio of Node JS from https://nodejs.org/en/ </p>
 <p> Check the node version. </p>
-` node -v`
+``` node -v```
