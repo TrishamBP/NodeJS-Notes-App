@@ -2,7 +2,7 @@
 <p align="center">
   <img src="images/nodejs-1-logo.png" height=150px width=150px>
 </p>
-<p> Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine. Notes-app allows users to add, remove, list and save notes in a JSON file using the node app.
+<p> Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine. Notes-app allows users to add, remove, list and read notes from a JSON file using node through the command line interface.
 </p>
 
 <h2> Concepts Covered </h2>
