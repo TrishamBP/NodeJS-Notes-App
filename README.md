@@ -13,11 +13,9 @@
 </ol>
 
 ## Installation and Setup
-Install dependencies
+Install NodeJS and check the version
 ```Bash
-truffle init
-npm install
-git init
+node -v
 ```
 
 
