@@ -13,9 +13,10 @@
 </ol>
 
 ## Installation and Setup
-Install NodeJS and check the version
+Install NodeJS and initilaise npm
 ```Bash
 node -v
+npm init
 ```
 Install Node modules for dependencies
 ```Bash
